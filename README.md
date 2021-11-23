@@ -11,6 +11,9 @@ seguintes opções:
 5. Pesquisar associados
 6. Gerar relatório de associados
 7. Finalizar Programa
+
 Cada item de menu deverá ser realizado por um procedimento/função específico.
+
 Entradas: Opção desejada.
+
 Saídas: Resultado da busca ou cadastro.
